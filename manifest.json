@@ -1,6 +1,6 @@
 {
   "name": "Color Extractor",
-  "description": "A color picker extension",
+  "description": "A chrome extension to extract and save color in clipboard",
   "version": "1.0",
   "manifest_version": 3,
   "background": {
